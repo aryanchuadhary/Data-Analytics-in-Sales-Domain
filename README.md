@@ -1,6 +1,12 @@
 📊 Sales Analysis Project
 📌 Overview
 
+Dashboard Images 
+https://github.com/aryanchuadhary/Data-Analytics-in-Sales-Domain/blob/main/Screenshot%202025-09-05%20150056.png
+
+
+
+
 This project is a Sales Analysis Dashboard that provides insights into customer behavior, revenue trends, profit margins, and product performance.
 The goal is to help businesses make data-driven decisions by analyzing key metrics and visualizing them through reports and dashboards.
 
