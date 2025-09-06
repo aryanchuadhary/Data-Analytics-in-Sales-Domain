@@ -1,63 +1,62 @@
-📊 Sales Analysis Project
-📌 Overview
+# 📊 Sales Analysis Project  
 
-Dashboard Image1
-https://github.com/aryanchuadhary/Data-Analytics-in-Sales-Domain/blob/main/Screenshot%202025-09-05%20150056.png
+![Dashboard 1](https://github.com/aryanchuadhary/Data-Analytics-in-Sales-Domain/blob/main/Screenshot%202025-09-05%20150056.png)  
+![Dashboard 2](https://github.com/aryanchuadhary/Data-Analytics-in-Sales-Domain/blob/main/Screenshot%202025-09-05%20150110.png)  
+![Dashboard 3](https://github.com/aryanchuadhary/Data-Analytics-in-Sales-Domain/blob/main/Screenshot%202025-09-05%20150121.png)  
 
-Dashboard Image2
-https://github.com/aryanchuadhary/Data-Analytics-in-Sales-Domain/blob/main/Screenshot%202025-09-05%20150110.png
+An **end-to-end Sales Analysis Dashboard** that provides insights into **customer behavior, revenue trends, profit margins, and product performance**.  
+The goal is to help businesses make **data-driven decisions** by analyzing key metrics and visualizing them through **interactive dashboards and reports**.  
 
-Dashboard Image3
-https://github.com/aryanchuadhary/Data-Analytics-in-Sales-Domain/blob/main/Screenshot%202025-09-05%20150121.png
+**Timeline:** May 2025 – July 2025  
+**Focus:** Customer segmentation, revenue optimization, profitability analysis  
 
-This project is a Sales Analysis Dashboard that provides insights into customer behavior, revenue trends, profit margins, and product performance.
-The goal is to help businesses make data-driven decisions by analyzing key metrics and visualizing them through reports and dashboards.
+---
 
-🚀 Features
+## 🚀 Features  
 
-Data cleaning and preprocessing using Python (Pandas, NumPy)
+- **Data Cleaning & Preprocessing** → Python (Pandas, NumPy)  
+- **Exploratory Data Analysis (EDA)** → statistical + visual insights  
+- **Interactive Dashboards** → Power BI visualizations for stakeholders  
+- **Revenue & Profit Margin Tracking** → identify growth opportunities  
+- **Customer Segmentation** → by region, channel, and category  
+- **Automated Reporting** → exportable reports for decision-making  
 
-Exploratory Data Analysis (EDA) with statistical and visual insights
+---
 
-Interactive dashboards built in Power BI and visualizations in Matplotlib/Seaborn
+## 🛠️ Tech Stack  
 
-Revenue, profit margin, and sales trend tracking
+- **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Visualization:** Power BI, Matplotlib  
+- **Database:** SQL / CSV datasets  
+- **Tools:** Jupyter Notebook, VS Code  
 
-Customer segmentation by region, channel, and category
+---
 
-Exportable reports for decision-making
+## 📂 Project Structure  
 
-🛠️ Tech Stack
+Sales-Analysis-Project/
+├── data/ # Raw and cleaned datasets
+├── notebooks/ # Jupyter notebooks for EDA
+├── reports/ # Dashboards and exports
+├── scripts/ # Python scripts for ETL & analysis
+└── README.md # Documentation
 
-Programming: Python (Pandas, NumPy, Matplotlib, Seaborn)
+yaml
+Copy code
 
-Visualization: Power BI, Matplotlib
+---
 
-Database: SQL / CSV datasets
+## 📊 Key Insights  
 
-Tools: Jupyter Notebook / VS Code
+- 📈 **Monthly revenue growth** and seasonality detected  
+- 🛍️ **Top-performing products** and categories identified  
+- 👥 **Customer segmentation** by state, county, and sales channel  
+- 💰 **Profitability analysis** across different regions  
 
-📂 Project Structure
-├── data/                 # Raw and cleaned datasets  
-├── notebooks/            # Jupyter notebooks for analysis  
-├── reports/              # Exported dashboards and visualizations  
-├── scripts/              # Python scripts for ETL & analysis  
-├── README.md             # Project documentation  
+---
 
-📊 Key Insights
+## 📌 Future Improvements  
 
-📈 Monthly revenue growth and seasonality detected
-
-🛍️ Top-performing products and categories
-
-👥 Customer segmentation by state, county, and channel
-
-💰 Profitability analysis for different regions
-
-📌 Future Improvements
-
-Add forecasting models (ARIMA, Prophet, LSTM)
-
-Automate ETL pipelines
-
-Deploy dashboard as a web app
+- Add **forecasting models** (ARIMA, Prophet, LSTM)  
+- Automate **ETL pipelines** for real-time analysis  
+- Deploy the **dashboard as a web app** for accessibility 
